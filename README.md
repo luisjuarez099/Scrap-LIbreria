@@ -1,10 +1,15 @@
-<<<<<<< HEAD
-# python_Grafica
-funciones donde graficamos los paises que tienen una poblacion menor a
-DIez mil persona. 
-Usamos matplot para su graficacion.
-Creamos un csv.
-=======
-# Scrap-LIbreria
-Hicimos un scrap de la libreria el sotano
->>>>>>> 9b7990f30ea3afe1611481360e762a76e5150c60
+# Scrpeando una Libreria!
+```
+Hola este es mi repo donde podran scrapear la libreria el sotano. En ella encontraran la info paso a paso para 
+hacer correr este proyecto en sus propias Pc's. Mucha suerte y sigan scrapeando. Exito!!!!
+```
+
+# Guia
+
+```
+1.-git clone
+2.- python3 -m venv env
+3.- source env/bin/activate
+4.-pip3 install -r requirements.txt
+5.-python3 main.py
+```
