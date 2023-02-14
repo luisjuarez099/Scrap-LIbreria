@@ -49,10 +49,6 @@ def scrap_pg():
 		print("I/O error")
 
 
-if __name__ == "__main__": 
-	scrap_pg() #llamamos a nuestra funcion
-
-
 #15/01/2023
 #creado  por luis juarez :D. 
 #pagina que scrapiamos:  https://www.elsotano.com/novedades-editoriales
